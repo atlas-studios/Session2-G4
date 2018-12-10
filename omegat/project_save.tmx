@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_2_10465" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3468,6 +3468,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“还愣着干什么？攻击！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T064022Z" creationid="Anthony Yeow" creationdate="20181210T064022Z">
+        <seg>"What are you waiting for? Attack!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“还愣着干什么？滚出去，别影响老夫炼丹……这江松看来是活腻了，上个茅房也上那么久？这回火竟还要老夫亲自动手……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T055721Z" creationid="Joey" creationdate="20180811T195230Z">
@@ -3722,6 +3730,14 @@ Jiang Yi was rendered speechless, as he found something wrong with a strand of b
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180912T101548Z" creationid="Joey" creationdate="20180912T101548Z">
         <seg>"Gold token-grade sparring partner?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“钱万贯，我帮你们重创了十个人，后面的事情就交给你了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T065651Z" creationid="Anthony Yeow" creationdate="20181210T065651Z">
+        <seg>"Qian Wanguan, I've already helped you seriously injure ten people. I'll leave the rest to you."</seg>
       </tuv>
     </tu>
     <tu>
@@ -10335,6 +10351,14 @@ The plump shopkeeper's facial expression changed. He gave a forced, awkward laug
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>江逸协同这武者轻松把一人重创，不等江麒麟冲来，立即运转一缕黑色元力去了小腿，速度一下飙升起来。这次他没有再攻击了，而是朝小胖子方向飙射而去，眨眼就钻进了灌木丛内。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T065608Z" creationid="Anthony Yeow" creationdate="20181210T065608Z">
+        <seg>Together, Jiang Yi and this martial artist inflicted serious damage on a person. Not waiting for Jiang Qilin to rush over, Jiang Yi immediately circulated a wisp of black essence forces towards his calf and quickly roe up. This time, he no longer attacked; instead he flew towards Fatty and dove into the bushes in a blink of an eye.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>江逸单手接过杨管事丢过来的瓷瓶，打开瓶塞一看，见里面竟是三枚灵神丹。暗道武殿果然财大气粗，连忙拱手道谢朝外面走去，在门口时他突然想起什么，回头问道：“管事……如果五年未满，我不干了，或者我有事要暂时离开，那该如何？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180923T191915Z" creationid="Joey" creationdate="20180923T191915Z">
@@ -10469,6 +10493,14 @@ He hoped to continue working long-term at the Alchemy Lab—which meant he did n
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T013900Z" creationid="USER" creationdate="20180807T041846Z">
         <seg>Jiang Yi stared at the clear and distinct surroundings in a daze. He could clearly see the hairs on the legs of the spider on the wall. Moreover, the spider's movement was scarily slow, like a slow-motion picture. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>江逸和小胖子说了一声，立即运转最后一缕黑色元力朝远处狂奔而去。他释放了爆元掌，身体内元力消耗过多，刚才的攻击时黑色元力也几乎消耗干净，自然不敢再多停留。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T070342Z" creationid="Anthony Yeow" creationdate="20181210T070342Z">
+        <seg>After informing Fatty, Jiang Yi immediately circulated a last wisp of black essence forces and bolted far away. He released the Exploding Essence Hand. His body was severely drained of essence force and the attack from just now had made him up nearly all of his black essence forces. As such, he didn't dare to stay any longer.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11903,6 +11935,14 @@ Yet he smiled sweetly and replied, "Elder Liu gave the instruction two days ago 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>江逸的身体已经到了另外一名武者身边，本来有一人和他正对战，却被江逸那边的战斗吸引了都忘记了攻击，在江逸一声爆喝之下，立即醒悟慌忙配合江逸攻击。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T064811Z" creationid="Anthony Yeow" creationdate="20181210T064811Z">
+        <seg>Jiang Yi was already standing beside another martial artist. This martial artist was battling someone at first, but was so attracted by Jiang Yi's battle that he forgot to attack. Upon hearing Jiang Yi's loud roar, he immediately came to his senses and hurriedly joined him in the attack. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>江逸的身子如风般朝那屋子内冲去，房门关上的，他一脚重重的踹了上去。此刻他脚上元力灌注，这一脚力道十足，房门瞬间四分五裂，轰然倒下。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T004516Z" creationid="USER" creationdate="20180807T120649Z">
@@ -12911,8 +12951,8 @@ Immediately being reminded of something, he grinned widely as he said, "Xiaonu, 
       <tuv lang="ZH-CN">
         <seg>江麒麟看了江逸一阵，开始看他的身子有些眼熟，很快想起爆元掌，幡然醒悟暴怒大喝起来：“我杀了你。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T063822Z" creationid="Anthony Yeow" creationdate="20181210T063822Z">
-        <seg>Jiang Qilin looked at Jiang Yi for a while. He began to find him familiar, then quickly recalled the Exploding Essence Hand, </seg>
+      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T064004Z" creationid="Anthony Yeow" creationdate="20181210T063822Z">
+        <seg>Jiang Qilin looked at Jiang Yi for a while. He began to find him familiar, then quickly recalled the Exploding Essence Hand. He came to his senses, and furiously shouted, "I'll kill you." </seg>
       </tuv>
     </tu>
     <tu>
