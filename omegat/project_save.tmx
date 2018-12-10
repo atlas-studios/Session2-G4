@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_2_10465" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -15373,8 +15373,8 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       <tuv lang="ZH-CN">
         <seg>钱万贯爬了起来，揉了揉胸口依旧没有生气，反而疑惑的望着江逸，看他不似作伪，这才问道：“江逸，江云海没有告诉你的身世？按我们钱家的情报推算，你绝对是镇西王的儿子，江逆流同父异母的弟弟！”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Valene" changedate="20181210T054914Z" creationid="Valene" creationdate="20181210T054914Z">
-        <seg>Qian Wanguan stood back up and rubbed his chest. He wasn't angered but instead, he looked at Jiang Yi in confusion. Realizing that Jiang Yi didn't seemed to be faking it, he then asked, "Jiang Yi, did </seg>
+      <tuv lang="EN-US" changeid="Valene" changedate="20181210T055609Z" creationid="Valene" creationdate="20181210T054914Z">
+        <seg>Qian Wanguan stood back up and rubbed his chest. He wasn't angered but instead, he looked at Jiang Yi in confusion. Realizing that Jiang Yi didn't seemed to be faking it, he then asked, "Jiang Yi, didn't Jiang Yunhai tell you about your identity? According to the information from the Jiang Clan, you are definitely the son of Western Garrison Liege Lord, Jiang Niliu's younger brother of a different mother!" </seg>
       </tuv>
     </tu>
     <tu>
