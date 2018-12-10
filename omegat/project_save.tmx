@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_2_10465" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16447,8 +16447,8 @@ After a short period of time, Jiang Xiaonu ran into the backyard. "Young Master,
       <tuv lang="ZH-CN">
         <seg>黑衣少女气鼓鼓的转过身子去，眼睛死死盯着江逸。她那天说江逸比战无双实力强大，毕竟只是一种感觉，还有气气战无双的想法，心底倒是不认为江逸能赢战无双，毕竟战无双是战神一族这一代的传人。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T080044Z" creationid="Anthony Yeow" creationdate="20181210T060532Z">
-        <seg>Enraged, the Girl in Black turned around as she glared at Jiang Yi. The other day, she said that Jiang Yi is stronger than Zhan Wushuang; but it was only based on her feelings, and she had the intention of angering Zhan Wushuang. From the bottom of her heart, she didn't think Jiang Yi would be able to defeat Zhan Wushuang. After all, he was. </seg>
+      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T081901Z" creationid="Anthony Yeow" creationdate="20181210T060532Z">
+        <seg>Enraged, the Girl in Black turned around as she glared at Jiang Yi. The other day, she said that Jiang Yi is stronger than Zhan Wushuang; but it was only based on her feelings, and she had the intention of angering Zhan Wushuang. From the bottom of her heart, she didn't think Jiang Yi would be able to defeat Zhan Wushuang. After all, he was set to become the god of war for this generation. </seg>
       </tuv>
     </tu>
     <tu>
