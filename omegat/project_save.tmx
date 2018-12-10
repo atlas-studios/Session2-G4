@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_2_10465" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -176,8 +176,8 @@
       <tuv lang="ZH-CN">
         <seg>“不是我不懂知恩图报，我们战家一直中立，如此场合要是出手了，日后肯定非常麻烦，还会影响高层的博弈。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T071454Z" creationid="Anthony Yeow" creationdate="20181210T055027Z">
-        <seg>"It's not that I don't know how to be grateful. The Zhans have always been neutral. If I were to  in such a situation, it will be very troublesome in the future, and will affect the higher ups' game." </seg>
+      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T073309Z" creationid="Anthony Yeow" creationdate="20181210T055027Z">
+        <seg>"It's not that I don't know how to be grateful. The Zhans have always been neutral. If I were to attack in such a situation, it will be very troublesome in the future, and will affect the higher ups' game." </seg>
       </tuv>
     </tu>
     <tu>
@@ -8284,10 +8284,18 @@ Jiang Yi's mood immediately improved significantly when he realized this. So lon
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>战无双古铜色的脸上露出一丝笑意，伸手摸了摸黑衣少女的头，不料她却躲避开去，他脸上的笑容不减，点头道：“这人也算是个怪才，表面竟然只有铸鼎境五重？如果他能进学院的话，就让他跟我混吧，我罩着他。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T074228Z" creationid="Anthony Yeow" creationdate="20181210T073301Z">
+        <seg>A faint smile showed up on Zhan Wushuang's bronze face. He reached out to touch the Girl in Black's head, but the Girl in Black avoided his touch. The smile on Zhan Wushuang's face didn't falter. He nodded and said, "This person sure is queer, he appears to be only as strong as the fifth stage of the Cast Tripod Realm? If he can enter the college, let him hang out with me. I'll protect him."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>战无双摇了摇头，身子纹丝不动，瞥了江逸一眼淡淡笑了起来：“再说了……你不是说这人实力比我还强？谁能伤他？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T055919Z" creationid="Anthony Yeow" creationdate="20181210T055919Z">
-        <seg>Zhan Wushuang shook her head, her body not moving at all. She glanced at Jiang Yi and smiled slightly, "Besides...... Didn't you say this person is stronger than me? Who could hurt him?"</seg>
+      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T073344Z" creationid="Anthony Yeow" creationdate="20181210T055919Z">
+        <seg>Zhan Wushuang shook his head, his body not moving at all. He glanced at Jiang Yi and smiled slightly, "Besides...... Didn't you say this person is stronger than me? Who could hurt him?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -15789,8 +15797,8 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       <tuv lang="ZH-CN">
         <seg>那边黑衣少女眼中都是雀跃，扭头和战无双冷笑道：“我说的没错吧？这人绝对隐藏了实力，铸鼎境九重一招就能重创，他实力绝对不弱于你。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T072627Z" creationid="Anthony Yeow" creationdate="20181210T072627Z">
-        <seg>The Girl in Black's eyes were filled with joy. </seg>
+      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T073402Z" creationid="Anthony Yeow" creationdate="20181210T072627Z">
+        <seg>The Girl in Black's eyes were filled with joy. She turned her had and smiled to Zhan Wushuang coldly, "I'm right, aren't I? This person definitely hid his strength. To be able to seriously injure a martial artist of the ninth stage of the Cast Tripod Realm with a single move, his strength definitely does not pale in comparison to yours."</seg>
       </tuv>
     </tu>
     <tu>
@@ -16345,6 +16353,14 @@ After a short period of time, Jiang Xiaonu ran into the backyard. "Young Master,
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180921T051609Z" creationid="Joey" creationdate="20180921T051609Z">
         <seg>Black essence force could increase his power by two times. At the moment, with the boundary of his power-level at the second stage of the Cast Tripod Realm, after merging with some black essence force, his power-level could hit the fourth stage of the Cast Tripod Realm, equivalent to four horsepower worth of strength. Besides being compatible with and increasing his ability of sight, his mixed martial arts techniques and strategies certainly allowed him to be on par with any typical martial artists with a power level at the fourth stage of the Cast Tripod Realm. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>黑衣少女似乎和战无双有些不对，扭头不服气的说道：“谁罩谁还不一定呢。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T074153Z" creationid="Anthony Yeow" creationdate="20181210T074153Z">
+        <seg>The Girl in Black seemed to disagree with Zhan Wushuang. Unconvinced, she turned her head and said, </seg>
       </tuv>
     </tu>
     <tu>
