@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_2_10465" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -176,8 +176,8 @@
       <tuv lang="ZH-CN">
         <seg>“不是我不懂知恩图报，我们战家一直中立，如此场合要是出手了，日后肯定非常麻烦，还会影响高层的博弈。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T055650Z" creationid="Anthony Yeow" creationdate="20181210T055027Z">
-        <seg>"It's not that I don't know how to be grateful. The Zhans have always been neutral. If I were to step out in such a situation, it will be very troublesome in the future, and will affect the higher ups' game." </seg>
+      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T071454Z" creationid="Anthony Yeow" creationdate="20181210T055027Z">
+        <seg>"It's not that I don't know how to be grateful. The Zhans have always been neutral. If I were to  in such a situation, it will be very troublesome in the future, and will affect the higher ups' game." </seg>
       </tuv>
     </tu>
     <tu>
@@ -3032,6 +3032,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180828T105857Z" creationid="USER" creationdate="20180810T062530Z">
         <seg>"Idiot! It's because of you that this cauldron of elixirs is ruined! Quickly retrieve the same ingredients as before and continue refining..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“看到没，战无双！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T072452Z" creationid="Anthony Yeow" creationdate="20181210T072452Z">
+        <seg>"See, Zhan Wushuang!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7584,8 +7592,8 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
       <tuv lang="ZH-CN">
         <seg>小胖子望着江逸消失的方向眨了眨眼睛有些懊恼，这次他可是亏了，前方的战斗是输是赢这并不重要，重要的是他想通过江逸让战无双出手，结果不等战无双出手，江逸竟轻松重创了十人……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T071451Z" creationid="Anthony Yeow" creationdate="20181210T071451Z">
-        <seg>Perplexed, Fatty gazed in the direction that Jiang Yi went off in and blinked. He was at a loss this time. Who won in the battle up ahead wasn't important; what's important was that he wanted to let Zhan Wushuang attack through </seg>
+      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T071617Z" creationid="Anthony Yeow" creationdate="20181210T071451Z">
+        <seg>Perplexed, Fatty gazed in the direction that Jiang Yi went off in and blinked. He was at a loss this time. Who won in the battle up ahead wasn't important; what's important was that he wanted to let Zhan Wushuang attack through Jiang Yi. In the end, before he could wait for Zhan Wushuang to attack, Jiang Yi had easily inflicted serious injuries onto ten people......</seg>
       </tuv>
     </tu>
     <tu>
@@ -13983,8 +13991,8 @@ All of them were wearing masks of bronze-green beasts, with many of them having 
       <tuv lang="ZH-CN">
         <seg>第十四章 看走眼了</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T052941Z" creationid="Anthony Yeow" creationdate="20181210T052941Z">
-        <seg>Chapter 14: Misjudgment </seg>
+      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T072446Z" creationid="Anthony Yeow" creationdate="20181210T052941Z">
+        <seg>Chapter 14: Make a Mistake </seg>
       </tuv>
     </tu>
     <tu>
@@ -15723,6 +15731,14 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>那边黑衣少女眼中都是雀跃，扭头和战无双冷笑道：“我说的没错吧？这人绝对隐藏了实力，铸鼎境九重一招就能重创，他实力绝对不弱于你。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T072627Z" creationid="Anthony Yeow" creationdate="20181210T072627Z">
+        <seg>The Girl in Black's eyes were filled with joy. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>那铸鼎境界三重旁系子弟江如鹰立即朝前走了两步，蹲了一个马步，满脸嘲弄的伸手指着胯下道：“来吧！钻过去。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180917T111825Z" creationid="Joey" creationdate="20180917T111825Z">
@@ -15743,6 +15759,14 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       </tuv>
       <tuv lang="EN-US" changeid="Valene" changedate="20181210T071122Z" creationid="Valene" creationdate="20181210T070937Z">
         <seg>Qian Wanguan was confused, he had sent people to check about Jiang Yi and the agency deduced Jiang Yi's identity in no time. Then, he sent people to arrange him to room with Jiang Yi. He had originally hoped to build a positive relationship with Jiang Yi in hopes that it will be beneficial for the Qian Clan when Jiang Yi returns to the Jiang Clan to take over the position of the Western Garrison Liege Lord. Little did he expect that Jiang Yi was so against the Jiang Clan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>钱万贯沉吟一阵，很快又眯笑了起来，招来一个人道：“传讯下去，让家族的探子查一下这人的资料，十五六岁综合战力竟达到紫府境了？不是七大世家的子弟也有如此天资？我倒是看走眼了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T072435Z" creationid="Anthony Yeow" creationdate="20181210T072435Z">
+        <seg>aQian Wanguan muttered to himself for a moment, then very quickly smiled once again and called a person over. "Pass down the message, let the family clan detective do a check on this person. Battling at the Purple Mansion Realm with the combined combat ability of a 15- or 16-year-old? Possessing such talents despite not being a disciple of the Seven Great Families? I must've made a mistake. </seg>
       </tuv>
     </tu>
     <tu>
