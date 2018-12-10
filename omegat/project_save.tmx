@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_2_10465" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8028,6 +8028,14 @@ Jiang Yi's mood immediately improved significantly when he realized this. So lon
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>战无双摇了摇头，身子纹丝不动，瞥了江逸一眼淡淡笑了起来：“再说了……你不是说这人实力比我还强？谁能伤他？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T055919Z" creationid="Anthony Yeow" creationdate="20181210T055919Z">
+        <seg>Zhan Wushuang shook her head, her body not moving at all. She glanced at Jiang Yi and smiled slightly, "Besides...... Didn't you say this person is stronger than me? Who could hurt him?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>房门关闭，姬听雨看到江逸眼中的无奈，浅浅一笑道：“易公子不用担忧，有听雨在，马公子和柳公子不会为难你的。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="tianqi" changedate="20181028T085126Z" creationid="tianqi" creationdate="20181028T085126Z">
@@ -15905,6 +15913,14 @@ After a short period of time, Jiang Xiaonu ran into the backyard. "Young Master,
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180921T051609Z" creationid="Joey" creationdate="20180921T051609Z">
         <seg>Black essence force could increase his power by two times. At the moment, with the boundary of his power-level at the second stage of the Cast Tripod Realm, after merging with some black essence force, his power-level could hit the fourth stage of the Cast Tripod Realm, equivalent to four horsepower worth of strength. Besides being compatible with and increasing his ability of sight, his mixed martial arts techniques and strategies certainly allowed him to be on par with any typical martial artists with a power level at the fourth stage of the Cast Tripod Realm. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>黑衣少女气鼓鼓的转过身子去，眼睛死死盯着江逸。她那天说江逸比战无双实力强大，毕竟只是一种感觉，还有气气战无双的想法，心底倒是不认为江逸能赢战无双，毕竟战无双是战神一族这一代的传人。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Anthony Yeow" changedate="20181210T060712Z" creationid="Anthony Yeow" creationdate="20181210T060532Z">
+        <seg>Enraged, the Girl in Black turned around as she glared at Jiang Yi. When she said that day that Jiang Yi is stronger than Zhan Wushuang, it was only based on her feelings, and she had the intention of angering Zhan Wushuang. From the bottom of her heart, she didn't think Jiang Yi would be able to defeat Zhan Wushuang. After all, she was this generation's successor to the god of war. </seg>
       </tuv>
     </tu>
     <tu>
