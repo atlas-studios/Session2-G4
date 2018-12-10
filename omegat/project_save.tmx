@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_2_10465" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12407,6 +12407,14 @@ Sighing deeply, he gritted his teeth and walked in the direction of the side doo
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>江逸身子一颤，但还是很不相信，冷笑道：“证据呢？你凭什么说我是镇西王的儿子？我还说你是我的儿子呢！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Valene" changedate="20181210T060413Z" creationid="Valene" creationdate="20181210T060413Z">
+        <seg>Jiang Yi shuddered, but he was still skeptical as he gave a cold laugh and remarked, "Where's the evidence? On what basis do you claim that I'm the son of the Western Garrison Liege Lord? I'd even say that you're my son!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>江逸身子一颤，江小奴没有一点实力，居然妄图蜉蝣撼树？这要是给这护卫踹上一脚，不得活活踹死啊？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T061937Z" creationid="USER" creationdate="20180809T060006Z">
@@ -15413,8 +15421,8 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       <tuv lang="ZH-CN">
         <seg>钱万贯的话刚刚说完，江逸就一脚猛然踹在他身上，将他身子踹出去足足一丈之远，他满脸都是怒容，冷喝道：“钱万贯，耍我很好玩？世子这词能乱叫？你是想让我被满门抄斩吗？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Valene" changedate="20181210T054327Z" creationid="Valene" creationdate="20181210T052705Z">
-        <seg>Just when Qian Wanguan had finished his sentence, Jiang Yi suddenly kicked him, causing him to fly ten feet away. His face was filled with anger as he coldly shouted, "Qian Wanguan, is it very fun to mess around with me? What rights do you have address me as the crown prince? Are you trying to get my whole family killed?"</seg>
+      <tuv lang="EN-US" changeid="Valene" changedate="20181210T055657Z" creationid="Valene" creationdate="20181210T052705Z">
+        <seg>Just when Qian Wanguan had finished his sentence, Jiang Yi suddenly kicked him, causing him to fly ten feet away. His face was filled with anger as he coldly shouted, "Qian Wanguan, is it very fun to mess around with me? Do you think you can address anyone as the crown prince as you please? Are you trying to get my whole family killed?"</seg>
       </tuv>
     </tu>
     <tu>
