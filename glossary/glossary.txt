@@ -1022,7 +1022,6 @@
 钱万贯	Qian Wanguan
 冰山美人	Ice Beauty
 苏若雪	Su Ruoxue
-战无双	Zhan Wushuang
 江云海	Jiang Yunhai
 江逆	Jiang Ni
 江逆流	Jiang Niliu
@@ -1043,3 +1042,4 @@
 气不打一处来	furious
 令牌	command token
 世子殿下	His Royal Highness
+战无双	Zhan Wushuang	Male
