@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_2_10465" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -952,6 +952,14 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180918T201742Z" creationid="Joey" creationdate="20180918T201742Z">
         <seg>"Oh no!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“哎哟……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Valene" changedate="20181210T054337Z" creationid="Valene" creationdate="20181210T054337Z">
+        <seg>"Ouch..."</seg>
       </tuv>
     </tu>
     <tu>
@@ -15359,6 +15367,22 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T055405Z" creationid="Joey" creationdate="20180810T205747Z">
         <seg>That black essence force actually separated from the blue essence force and suddenly merged with the nearby elixir powers...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>钱万贯爬了起来，揉了揉胸口依旧没有生气，反而疑惑的望着江逸，看他不似作伪，这才问道：“江逸，江云海没有告诉你的身世？按我们钱家的情报推算，你绝对是镇西王的儿子，江逆流同父异母的弟弟！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Valene" changedate="20181210T054914Z" creationid="Valene" creationdate="20181210T054914Z">
+        <seg>Qian Wanguan stood back up and rubbed his chest. He wasn't angered but instead, he looked at Jiang Yi in confusion. Realizing that Jiang Yi didn't seemed to be faking it, he then asked, "Jiang Yi, did </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>钱万贯的话刚刚说完，江逸就一脚猛然踹在他身上，将他身子踹出去足足一丈之远，他满脸都是怒容，冷喝道：“钱万贯，耍我很好玩？世子这词能乱叫？你是想让我被满门抄斩吗？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Valene" changedate="20181210T054327Z" creationid="Valene" creationdate="20181210T052705Z">
+        <seg>Just when Qian Wanguan had finished his sentence, Jiang Yi suddenly kicked him, causing him to fly ten feet away. His face was filled with anger as he coldly shouted, "Qian Wanguan, is it very fun to mess around with me? What rights do you have address me as the crown prince? Are you trying to get my whole family killed?"</seg>
       </tuv>
     </tu>
     <tu>
