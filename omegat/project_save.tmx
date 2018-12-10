@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_2_10465" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3844,6 +3844,14 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T142923Z" creationid="Joey" creationdate="20180818T093304Z">
         <seg>"Wrong perception! This must be a wrong perception... this good-for-nothing must definitely be faking it." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“闭嘴！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Valene" changedate="20181210T072643Z" creationid="Valene" creationdate="20181210T072643Z">
+        <seg>"Shut up!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12543,6 +12551,14 @@ Should he combine that power with black essence force, he could definitely beat 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>江逸脸色突然变得狰狞起来，猛然扭头盯着钱万贯吼道：“我再和你说一遍，我没有父亲，就算江别离出现在我面前，我也会一刀砍了他！以后你再敢说这样的话，信不信我宰了你？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Valene" changedate="20181210T072831Z" creationid="Valene" creationdate="20181210T072831Z">
+        <seg>Jiang Yi' expression suddenly turned ferocious, he suddenly turned to stare at Qian Wanguan and shouted, "Let me tell you once more, I don't have a father and even if Jiang Bieli appears before me, I will kill him! Do you believe that I will slaughter you if you say such things again?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>江逸苍狼面具之下的双眼光芒一闪，沉声问道：“交易？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180922T220857Z" creationid="Joey" creationdate="20180922T220857Z">
@@ -15789,8 +15805,8 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       <tuv lang="ZH-CN">
         <seg>钱万贯看江逸这样子，眸子一转，苦口婆心的劝道：“江逸，镇西王怎么说也是你的亲生父亲，你们迟早也要相认！当年镇西王肯定不知道你母亲身怀六甲，否则这些年一定回来找寻你的。你如果成为小世子，对于以后的发展将会有莫大帮助，你想要做什么也就简单了……”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Valene" changedate="20181210T072153Z" creationid="Valene" creationdate="20181210T072153Z">
-        <seg>Seeing Jiang Yi's state, Qian Wanguan shifted his pupils and tried his best to convince him, "Jiang Yi, no matter what, the Western Garrison Liege Lord is still your birth father and you'd have to acknowl</seg>
+      <tuv lang="EN-US" changeid="Valene" changedate="20181210T072640Z" creationid="Valene" creationdate="20181210T072153Z">
+        <seg>Seeing Jiang Yi's state, Qian Wanguan shifted his pupils and tried his best to convince him, "Jiang Yi, no matter what, the Western Garrison Liege Lord is still your birth father and you'd have to acknowledge him sooner or later! The Western Garrison Liege Lord must have not known that your mother was pregnant when she left. Or he would've been looking for you. If you become the crown prince, it will pose as a great help in your development. You can complete whatever you want to with much ease..."</seg>
       </tuv>
     </tu>
     <tu>
