@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_2_10465" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5382,6 +5382,14 @@ To say nothing of being faster than Jiang Henshui, even if he were slower than J
       </tuv>
       <tuv lang="EN-US" changeid="Valene" changedate="20181210T070519Z" creationid="Valene" creationdate="20181210T070519Z">
         <seg>His eyes suddenly turned red and he fiercely spoke, staring at Qian Wanguan, "Fatty, listen up, I'm an orphan with no parents. If you dare to leak this out, I'd risk my life to kill you!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>他的身世必须掩藏，一旦曝光或者被有心人知道，他和江云海的处境将会变得极其危险，要知道镇西王还有一个儿子叫江逆流。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Valene" changedate="20181210T074005Z" creationid="Valene" creationdate="20181210T074005Z">
+        <seg>He must hide his identity. It is so as once it is revealed or found out by one with evil intentions, he and Jiang Yunhai will be in danger as the Western Garrison Liege Lord had another son named Jiang Niliu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14199,6 +14207,14 @@ When she saw Jiang Yi enter, she hurriedly and nervously asked, "Young Master, w
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>答案是肯定的！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Valene" changedate="20181210T074135Z" creationid="Valene" creationdate="20181210T074135Z">
+        <seg>The answer is definitely yes!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>管事一怔，脸上立即露出灿烂的微笑，招手道：“来人，上好茶！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180905T184114Z" creationid="USER" creationdate="20180811T123221Z">
@@ -14901,6 +14917,14 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
         <seg>Embarrassed, Jiang Yi walked out of the Pearl Gathering Pavilion and blankly stood at the City Plaza. As he observed the unending flow of heavy traffic, his heart felt endlessly distressed. 
 
 With the Spirit Pills, he was actually not fearful of Jiang Ruhu and his cronies. The problem was in that situation that with the sealing-up of the alchemy lab, and without any more useless elixirs, how could he rapidly make lots of money? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>试问一个百分百能继承王爷爵位的世子殿下，知道自己还有一个同父异母的私生子弟弟，会不会千方百计的弄死他？确保他的继承资格？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Valene" changedate="20181210T074542Z" creationid="Valene" creationdate="20181210T074127Z">
+        <seg>If a crown prince that would be definitely able to take over the position of the lord realized that his father had an illegitimate child— his younger step-brother. You can try asking if he would find all ways to kill that step-brother of his in order to protect his throne.</seg>
       </tuv>
     </tu>
     <tu>
