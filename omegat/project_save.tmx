@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_2_10465" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3480,6 +3480,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="tianqi" changedate="20181024T174511Z" creationid="tianqi" creationdate="20181024T174511Z">
         <seg>"Could such a bizarre thing really happen? Is it due to the black essence force?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“这个女子的来历无人知晓，她被江别离带进王府住了两年，王府却没有给她任何名分，在江别离登上镇西王之位后还突然离开了。而在她离开后，江云海也告病回到了老家天羽城，据我们安排在镇西王府的内线传回的消息，那女子离开时肚子里已经有些孩子！江云海回到天羽城后一直呆在江家，三年后才突然离去抱回来两个婴儿，那就是你和你的侍女！既然江云海认你为少主，那么你的身份就再明显不过了……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Valene" changedate="20181210T063534Z" creationid="Valene" creationdate="20181210T063534Z">
+        <seg>"No one knew where this woman was from. She was brought into the prince's mansion by Jiang Bieli for two years, but the prince's mansion didn't give her any identity. And she suddenly left after Jiang Yunhai became the Western Garrison Liege Lord. And after her leave, Jiang Yunhai had also announced his illness and returned back to his hometown, Skyplume City. According to the information by our spies in Western Garrison Liege Lord's mansion, the woman was pregnant went she left! When Jiang Yunhai returned back to the Skyplume City, he had stayed in the Jiang Clan. He suddenly left three years later and came back with two babies which were you and your maidservant! Since Jiang Yunhai respected you as the prince, it makes your identity really obvious..."</seg>
       </tuv>
     </tu>
     <tu>
@@ -7422,6 +7430,14 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>小胖子哑然失笑，摇头道：“江逸，其实你应该猜到了一些吧？否则你不会如此暴怒！江云海曾经是王府的内院总管，有一次他因为做错了事情差点被杀了，是一位住在王府女子出言求情这才被免一死，不过最后还是被打瘸了腿，此事在镇西王府闹的很大，很多人都知道，他认这位女子为主也是情理之中的事情。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Valene" changedate="20181210T062308Z" creationid="Valene" creationdate="20181210T062308Z">
+        <seg>Fatty burst into laugher as he shook his head and replied, "Jiang Yi, you have already guessed some part of it right? Or else you wouldn't have been filled with such wrath! Jiang Yunhai used to be the Chief Supervisor of the inner courtyard of the prince's mansion. One day, he was almost killed due to a mistake he had made and it was a woman— staying in the prince's mansion— that had pleaded for him. But he was still hit till he became lame. The issue was blown up and many people knew about it. It was natural for him take the woman as his owner."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>少女目光在江逸等人身上扫过，有些不满的说道：“杨管事，怎么没有银牌陪练？全都是铜牌的？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T152717Z" creationid="Joey" creationdate="20180911T211203Z">
@@ -10373,6 +10389,14 @@ He hoped to continue working long-term at the Alchemy Lab—which meant he did n
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180921T051028Z" creationid="Joey" creationdate="20180921T051028Z">
         <seg>Upon hearing the news, Jiang Yi felt more relaxes and less tense throughout his body. He knew that, at the very least, he would be safe before Jiang Rulong returned from the Martial Arts Hall. He could unhurriedly cultivate his power and continously break his seal, and in turn achieve the largest increase in his power-level stages in the Cast Tripod Realm in the shortest amount of time. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>江逸听着钱万贯的话，一句话没说但脸色阴沉的可怕，眸子内光芒闪烁，也不知道他在想些什么。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Valene" changedate="20181210T063642Z" creationid="Valene" creationdate="20181210T063642Z">
+        <seg>As Jiang Yi listened to the words of Qian Wanguan, he didn't speak but his face was scarily glum. His eyes were shining and no one knew what was going through his mind.</seg>
       </tuv>
     </tu>
     <tu>
@@ -15487,6 +15511,14 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       </tuv>
       <tuv lang="EN-US" changeid="Valene" changedate="20181210T055657Z" creationid="Valene" creationdate="20181210T052705Z">
         <seg>Just when Qian Wanguan had finished his sentence, Jiang Yi suddenly kicked him, causing him to fly ten feet away. His face was filled with anger as he coldly shouted, "Qian Wanguan, is it very fun to mess around with me? Do you think you can address anyone as the crown prince as you please? Are you trying to get my whole family killed?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>钱万贯站了起来，沉默一阵，感慨道：“说起来那个女子也是奇人，没有人知道她叫什么，来自什么家族，只是知道她姓衣，此人不仅貌似天仙还实力奇高，甚至一开始都比江别离强很多！江别离据说非常爱这位女子，只是不知为何后来没有娶她？反而娶了长孙家的一位小姐，这女子也莫名其妙离开了王府……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Valene" changedate="20181210T064109Z" creationid="Valene" creationdate="20181210T064109Z">
+        <seg>Qian Wanguan stood up and stayed quiet for a period of time as he lamented, "That woman is really amazing, no one knows what her name was and what family clan she was from. All they knew that her surname was Yi and shes's not only extremely beautiful but also had high abilities. She was even way more powerful than Jiang Bieli in the beginning! It was said that Jiang Bieli loved this woman really much. I wonder why he didn't marry her in the end. And instead, he married a lady from Chang Sun Family and this woman had also left the prince's mansion for no reason..."</seg>
       </tuv>
     </tu>
     <tu>
