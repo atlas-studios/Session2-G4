@@ -1020,7 +1020,6 @@
 铸鼎境七重	seventh stage of Cast Tripod Realm
 武堂长老	Martial Court Elder
 钱万贯	Qian Wanguan
-世子殿下	Crown Prince
 冰山美人	Ice Beauty
 苏若雪	Su Ruoxue
 战无双	Zhan Wushuang
@@ -1043,3 +1042,4 @@
 马勒戈壁	Damn it
 气不打一处来	furious
 令牌	command token
+世子殿下	His Royal Highness
