@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_2_10465" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -654,8 +654,8 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
       <tuv lang="ZH-CN">
         <seg>“呃……”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T152755Z" creationid="USER" creationdate="20180812T100510Z">
-        <seg>“呃……”</seg>
+      <tuv lang="EN-US" changeid="Valene" changedate="20181210T070532Z" creationid="USER" creationdate="20180812T100510Z">
+        <seg>"Ermmm..."</seg>
       </tuv>
     </tu>
     <tu>
@@ -752,6 +752,14 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180922T145010Z" creationid="Joey" creationdate="20180922T145010Z">
         <seg>"Huh, huh, I'm not fighting any longer, you're too obscenely power..." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“呼！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Valene" changedate="20181210T065423Z" creationid="Valene" creationdate="20181210T065423Z">
+        <seg>"Huh...."</seg>
       </tuv>
     </tu>
     <tu>
@@ -5322,6 +5330,14 @@ To say nothing of being faster than Jiang Henshui, even if he were slower than J
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>他的眼眸突然泛红起来，盯着钱万贯恶狠狠的说道：“小胖子，你给我听着，我江逸是孤儿，我没有父母，这件事情你要是敢外传，我就算拼了命也会诛杀你的！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Valene" changedate="20181210T070519Z" creationid="Valene" creationdate="20181210T070519Z">
+        <seg>His eyes suddenly turned red and he fiercely spoke, staring at Qian Wanguan, "Fatty, listen up, I'm an orphan with no parents. If you dare to leak this out, I'd risk my life to kill you!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>他目光一冷，朝左边的小树林内扫去，暗道难道是江如虎等人来堵他了？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180916T172336Z" creationid="Joey" creationdate="20180916T172336Z">
@@ -5368,6 +5384,14 @@ The threads of friendship he had formed with Jiang Henshui when they were childr
       </tuv>
       <tuv lang="EN-US" changeid="Ho Jin Liang" changedate="20181203T140417Z" creationid="Ho Jin Liang" creationdate="20181203T140353Z">
         <seg>Witnessing Jiang Yi breaking Jiang Ruhu's leg, his eyes instantly broke wide opened as a killing aura cloaked his body. With a burst of his leg muscle, his entire body rushed towards Jiang Yi like a frenzied bull.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>他看江逸这样子，也不敢过于劝说，点了点头道：“行，这事我保证不外传，不过你的情报太明显了，随便一个人去天羽城查查就能知道，你想隐瞒身份除非把天羽城的人全杀了，要是江麒麟去查了你的资料，再上报给镇西王……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Valene" changedate="20181210T071348Z" creationid="Valene" creationdate="20181210T071348Z">
+        <seg>Seeing Jiang Yi's state, he didn't dare to persuade him. He just nodded and said, "Sure, I promise not to leak this matter out, but your information is too obvious, anyone who bothers to check in Skyplume City would know. And the only way for you to hide your identity is to kill everyone in Skyplume City. Furthermore, if Jiang Qilin checks your information and reports it to the Western Garrison Liege Lord..."</seg>
       </tuv>
     </tu>
     <tu>
@@ -7128,6 +7152,14 @@ The guard clad in black armor brought Jiang Yi into a corridor on the left-hand 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>如果小胖子没有骗他，钱家的情报没错，那么他真的很有可能是镇西王的私生子，所谓的世子殿下！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Valene" changedate="20181210T065551Z" creationid="Valene" creationdate="20181210T065421Z">
+        <seg>If fatty didn't lie to him and the information of the Qian Clan was accurate, then he could very likely be Western Garrison Liege Lord's illegitimate child, the crown prince! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>如果是刚才，或许对方手掌一扫，他双手肯定会被荡开还会被震伤，因为对方境界高两重，速度太快了，根本看不清他的手掌扫来的轨迹！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T062058Z" creationid="USER" creationdate="20180809T065406Z">
@@ -8380,6 +8412,14 @@ After instructing his maidservant to serve some aromatic tea, he gave a small sm
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180808T194639Z" creationid="Joey" creationdate="20180808T194639Z">
         <seg>Following that, that housekeeper appeared and viciously gave Jiang Xiaonu a slap and allowed the guard to bring Xiaonu to the backyard, demanding that she pay up for the damages or otherwise sign a contract and sell herself to the household... </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>推断出自己的身世，江逸不仅没有半点喜悦，反而脑中都是愤慨之气。对于这个突然冒出来的父亲，他没有半点认同感，亦如他娘亲说的，他没有父亲！以前没有，现在没有，以后也没有……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Valene" changedate="20181210T070404Z" creationid="Valene" creationdate="20181210T070353Z">
+        <seg>Although he had deduced his identity, Jiang Yi wasn't happy at all. Instead, he was filled with indignation. He had totally no acceptance to this father who have suddenly emerged out of nowhere. Just like what his mother had said, he had no father! He never had one in the past and he would not have any in the future..."</seg>
       </tuv>
     </tu>
     <tu>
@@ -15663,6 +15703,14 @@ Instead, he turned his body and was about to walk in the direction of the Jiang 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T055405Z" creationid="Joey" creationdate="20180810T205747Z">
         <seg>That black essence force actually separated from the blue essence force and suddenly merged with the nearby elixir powers...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>钱万贯有些迷糊了，他让人调查了江逸，根据情报很快推算出江逸的身份，这才让人安排他和江逸一个房间，本是想和江逸建立良好的关系。等以后江逸回到江家万一继承了镇西王之位，这对他对于钱家都是大大的好事，却没想到江逸对江家这么抵触？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Valene" changedate="20181210T071122Z" creationid="Valene" creationdate="20181210T070937Z">
+        <seg>Qian Wanguan was confused, he had sent people to check about Jiang Yi and the agency deduced Jiang Yi's identity in no time. Then, he sent people to arrange him to room with Jiang Yi. He had originally hoped to build a positive relationship with Jiang Yi in hopes that it will be beneficial for the Qian Clan when Jiang Yi returns to the Jiang Clan to take over the position of the Western Garrison Liege Lord. Little did he expect that Jiang Yi was so against the Jiang Clan.</seg>
       </tuv>
     </tu>
     <tu>
