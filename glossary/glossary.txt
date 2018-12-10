@@ -1042,3 +1042,4 @@
 大哥	Big Brother
 马勒戈壁	Damn it
 气不打一处来	furious
+令牌	command token
