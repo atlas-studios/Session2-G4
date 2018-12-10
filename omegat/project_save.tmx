@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_2_10465" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12117,6 +12117,14 @@ As he had already predicted the incoming attacks in advance, he had already take
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T063741Z" creationid="USER" creationdate="20180811T083140Z">
         <seg>Jiang Yi cut her off immediately and warned her, "Xiaonu, you must remember, from today onwards you will never be allowed to leave the Jiang Residence Central Courtyard. Otherwise, you can forget about ever recognizing me as your Young Master anymore."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>江逸眉头一皱，有些慌乱起来，江云海的曾经在王府内做过事，还当众说江逸是他的少主，如果了解内情的人一猜就能明白。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Valene" changedate="20181210T071608Z" creationid="Valene" creationdate="20181210T071608Z">
+        <seg>Jiang Yunhai furrowed his brows and begun to panic. Jiang Yunhai had once worked in the prince's mansion and had publicly announced that Jiang Yi was his young master. If it was someone who knew about the inside story, it would just take one guess to understand the situation.</seg>
       </tuv>
     </tu>
     <tu>
